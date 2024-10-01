@@ -21,6 +21,8 @@ python render_demo_segment[ANY NAME].py --config [CHANGE TO ANY conf_ file].txt 
 Testing:
 (not yet)
 
+# Datas and logs are [here](https://mega.nz/file/bdkz2Aba#pdps3DmX6GMzqnDNwhBkVKv6BZQfa4JCY3RiaszdmG0).
+
 # Acknowledgments
 Sincere thanks to wysocki et al. for opening the [Ultra-NeRF original code](https://github.com/magdalena-wysocki/ultra-nerf/tree/main) and part of the dataset.
 Sincerely thanks [Krönke et al.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268550) for opening up part of the [clinical dataset](https://www.cs.cit.tum.de/camp/publications/segthy-dataset/).
